@@ -1,4 +1,4 @@
-hawk
+Hawk
 ====
 
-Hawk client
+Hawk Authentication component

@@ -1,0 +1,14 @@
+{
+	"name":"hawk",
+	"version":"0.1.0",
+	"repo":"kaerus-component/hawk",
+	"main": "lib/hawk.js",
+	"scripts":[
+		"lib/hawk.js",
+		"lib/crypto.js",
+		"lib/cryptoJS.js",
+		"lib/httpError.js",
+		"lib/utils.js",
+		"lib/bewit.js"
+	]
+}
